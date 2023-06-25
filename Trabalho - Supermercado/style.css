@@ -1,0 +1,182 @@
+body {
+    font-family: 'Fira Sans', sans-serif;;
+    background: #f6f6f6;
+}
+
+
+.fundo-header {
+    background: #A4BC92 !important;
+}
+
+.fonte-header {
+    font-size: 1.6em;
+}
+
+.center { /*centralizar - flex*/
+    display: flex !important;
+    justify-content: center !important;
+}
+
+.end {  /*final(direita) - flex*/
+    display: flex !important;
+    justify-content: end !important;
+}
+
+.color-white {
+    color: #fff !important;
+}
+
+.back-gray:hover {
+    color: #e3e3e3 !important;
+}
+
+.back-img:hover {
+    color: #e3e3e3 !important;
+}
+
+.border-white {
+    border: 1px solid #fff !important;
+}
+
+.back-dropdown:hover {
+    background: #B3C99C;
+}
+
+.back-cadastro {
+    background: #B3C99C;
+}
+
+.font-header1 {
+    font-size: 1.3em;
+}
+
+.font-header2 {
+    font-size: 1em;
+}
+
+.font-header3 {
+    font-size: 1.1em;
+}
+
+.cor-principal {
+    color: #B3C99C !important;
+    font-weight: bold;
+}
+
+.cor-secundaria {
+    color: #A4BC92;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+.cor-produtos {
+    color: #B3C99C !important;
+    font-weight: bold;
+    font-size: 1em;
+}
+
+.inline {
+    display: inline !important;
+}
+
+.inline-blo {
+    display: inline block !important;
+}
+
+
+.size-form {
+    height: 3em;
+    width: 20em;
+    border-radius: 1.2em;
+}
+
+.size-form2 {
+    height: 10em;
+    width: 20em;
+    border-radius: 1.2em;
+}
+
+.back-cadastro {
+    background: #B3C99C !important;
+    color: #fff;
+}
+
+.font-cadastro {
+    font-size: 0.8em;
+    color: #A4BC92;
+    font-weight: bold;
+}
+
+.font-bold {
+    font-weight: bold;
+}
+
+.mar-left-foo {
+    margin-left: 5.8em !important;
+}
+
+.padd-top2 {
+    margin-top: 1.5em;
+}
+
+.mar-top {
+    margin-top: 7em !important;
+}
+
+.color-city-cada {
+    color: #717171;
+}
+
+.color-city-option:active {
+    background-color: #717171 !important;
+}
+
+.b-radius {
+    border-radius: 2em !important;
+}
+
+.hand {
+    cursor: pointer !important;
+}
+
+.max {
+    max-width: 600px !important;
+    max-height: 500px;
+}
+
+.text-ali {
+    text-align: justify !important;
+}
+
+.font-footer {
+    font-size: 0.8em !important;
+}
+
+.line-footer {
+    line-height: 0.5 !important;
+}
+
+.shadow {
+    box-shadow: #717171 !important;
+}
+
+.wi {
+    width: 100% !important;
+}
+
+.max {
+    max-width: 100% !important;
+}
+
+.back-produtos {
+    background-color: #A4BC92 !important;
+}
+
+.larg-card {
+    width: 18rem !important;
+}
+
+.border-produtos {
+    border: #cfe5be 2px solid !important;
+    border-radius: 1em;
+}
