@@ -1,5 +1,5 @@
 # Trabalho-Front-End-Responsivo
- Primeiro repositório do meu curso de Git e Github. Front-end responsivo utilizando BootsStrap(trabalho da faculdade, sem JS por enquanto). 
+ Primeiro repositório do meu curso de Git e Github. Páginas Web responsivas utilizando HTM, CSS e BootsStrap(trabalho da faculdade, sem JS por enquanto). 
 ## 16 Páginas Responsivas
 - [x] Home
 - [x] Cadastro
