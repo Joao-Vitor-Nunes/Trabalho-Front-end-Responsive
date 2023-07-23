@@ -13,7 +13,7 @@
 - [x] Hortifruti
 - [ ] Mercearia
 - [ ] Carnes
-- [ ] Congelados
+- [x] Congelados
 - [ ] Higiene
 - [ ] Limpeza
 - [ ] Pet Shop
